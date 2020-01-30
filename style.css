@@ -1,0 +1,31 @@
+.text-blue {
+  color: #0000FF;
+}
+
+h2 {
+  text-decoration: underline
+}
+
+h3 {
+  text-decoration: underline;
+}
+img {
+  border: 5px solid black;
+}
+
+header {
+  font-size: 47px;
+  font-weight: bold;
+  letter-spacing: 3px;
+  margin-left: 485px;
+  margin-bottom: 20px
+}
+
+body {
+  background-color: grey;
+}
+footer {
+  margin-top: 100px;
+  margin-left: 595px;
+  padding: 50px;
+}
